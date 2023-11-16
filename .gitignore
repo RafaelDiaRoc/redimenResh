@@ -1,0 +1,30 @@
+# Arquivos temporários
+*.pyc
+__pycache__/
+
+# Ambientes virtuais
+venv/
+env/
+
+# Arquivos de compilação
+*.pyo
+*.pyd
+
+# Logs e saídas
+*.log
+*.pot
+*.pyc
+*.pyo
+
+# Arquivos gerados pelo sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ignorar a pasta chamada "nome_da_pasta"
+build/
+
+# Ignorar pastas com qualquer nome que termina com "_temp"
+*_temp/
+
+# Ignora compilador
+.spec
